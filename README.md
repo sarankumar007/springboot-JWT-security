@@ -36,7 +36,7 @@ This project implements a secure backend for user authentication and authorizati
 ```
 {
    "username":"sk",
-   "password":"password",
+   "password":"password"
 }
 ```
 
