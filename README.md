@@ -32,6 +32,14 @@ This project implements a secure backend for user authentication and authorizati
    ./mvnw clean install
    ./mvnw spring-boot:run
 
+## Sample json for postman (register / login) 
+```
+{
+   "username":"sk",
+   "password":"password",
+}
+```
+
 ## Access Endpoints:
 
 - Signup: `http://localhost:8000/api/auth/register` (POST request with user details)
